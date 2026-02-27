@@ -23672,8 +23672,9 @@ msgstr "注释"
 #~ msgid "below items"
 #~ msgstr "置于项目下方"
 
-#~ msgid "Set height"
-#~ msgstr "设置高度"
+#: frontend/apps/reader/modules/readerlink.lua:501
+msgid "Set height"
+msgstr "设置高度"
 
 #~ msgid "thick"
 #~ msgstr "粗"
@@ -26171,3 +26172,31 @@ msgstr "注释"
 
 #~ msgid "%1/%2"
 #~ msgstr "%1/%2"
+
+#: frontend/ui/widget/footnotewidget.lua:443
+msgid "Go to footnote"
+msgstr "前往脚注"
+
+#: frontend/apps/reader/modules/readerlink.lua:487
+msgid "Footnote popup height"
+msgstr "脚注弹窗高度"
+
+#: frontend/apps/reader/modules/readerlink.lua:502
+msgid "Set footnote popup height"
+msgstr "设置脚注弹窗高度"
+
+#: frontend/apps/reader/modules/readerlink.lua:503
+msgid ""
+"The footnote popup height is specified as a percentage of screen height.\n"
+"The default is 33% (one third of the screen)."
+msgstr ""
+"脚注弹窗高度以屏幕高度的百分比指定。\n"
+"默认为 33%（屏幕的三分之一）。"
+
+#: frontend/apps/reader/modules/readerlink.lua:512
+msgid ""
+"The footnote popup height is specified as a percentage of screen height.\n"
+"You can adjust it to show more or less content at once."
+msgstr ""
+"脚注弹窗高度以屏幕高度的百分比指定。\n"
+"您可以调整它以一次显示更多或更少的内容。"

@@ -4706,6 +4706,14 @@ msgstr ""
 msgid "Show footnotes in popup"
 msgstr ""
 
+#: frontend/apps/reader/modules/readerlink.lua:381
+msgid "Highlight tapped links"
+msgstr ""
+
+#: frontend/apps/reader/modules/readerlink.lua:390
+msgid "Highlight the tapped source link while a footnote popup is shown."
+msgstr ""
+
 #: frontend/apps/reader/modules/readerlink.lua:330
 msgid ""
 "Show internal link target content in a footnote popup when it looks like it "

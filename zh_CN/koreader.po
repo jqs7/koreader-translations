@@ -5017,6 +5017,14 @@ msgstr "本条目已保存为 EPUB。建议您直接阅读该 EPUB 文件。"
 msgid "Show footnotes in popup"
 msgstr "以弹框方式显示脚注"
 
+#: frontend/apps/reader/modules/readerlink.lua:381
+msgid "Highlight tapped links"
+msgstr "高亮已点击链接"
+
+#: frontend/apps/reader/modules/readerlink.lua:390
+msgid "Highlight the tapped source link while a footnote popup is shown."
+msgstr "显示脚注弹窗时，高亮被点击链接的来源位置。"
+
 #: frontend/apps/reader/modules/readerlink.lua:330
 msgid ""
 "Show internal link target content in a footnote popup when it looks like it "
